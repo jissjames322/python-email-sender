@@ -1,2 +1,20 @@
-# python-email-sender
-A Python script to send emails using SMTP. Supports plain text and HTML emails, with customizable templates and logging.
+# Python Email Sender
+
+## Overview
+This Python script allows you to send emails using SMTP. It supports both plain text and HTML emails, making it versatile for various use cases. The script is designed to be user-friendly and customizable.
+
+## Features
+- Send plain text and HTML emails.
+- Supports multiple email providers.
+- Easy to configure and use.
+- Logging of email sending results.
+
+## Prerequisites
+- Python (Latest)
+- Required libraries: `smtplib`, `email`, `getpass`
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jissjames322/python-email-sender.git
+   cd python-email-sender
