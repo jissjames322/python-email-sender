@@ -86,6 +86,24 @@ app_password = os.getenv('APP_PASSWORD')
 python email_sender.py
 ```
 
+```python
+python mailsender.py
+
+___________              .__.__      _________                  .___
+\_   _____/ _____ _____  |__|  |    /   _____/ ____   ____    __| _/___________
+ |    __)_ /     \\__  \ |  |  |    \_____  \_/ __ \ /    \  / __ |/ __ \_  __ \
+ |        \  Y Y  \/ __ \|  |  |__  /        \  ___/|   |  \/ /_/ \  ___/|  | \/
+/_______  /__|_|  (____  /__|____/ /_______  /\___  >___|  /\____ |\___  >__|
+        \/      \/     \/                  \/     \/     \/      \/    \/
+
+Enter your email address: 
+Enter your email password (app password if using Gmail): 
+Enter the receiver's email address: 
+Enter the subject of the email: 
+Enter the body of the email: 
+Email sent successfully!
+```
+
 2.Follow the prompts to enter the sender's email, password, receiver's email, subject, and body of the email.
 
 ### Improving
