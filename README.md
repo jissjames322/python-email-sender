@@ -88,6 +88,10 @@ python email_sender.py
 
 2.Follow the prompts to enter the sender's email, password, receiver's email, subject, and body of the email.
 
+### Improving
+
+- Adding file attachment soon.
+
 
 
    
